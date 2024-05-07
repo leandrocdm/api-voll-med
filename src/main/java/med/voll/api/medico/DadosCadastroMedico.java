@@ -20,5 +20,7 @@ public record DadosCadastroMedico(
         String crm,
         @NotNull
         Especialidade especialidade,
+        @NotBlank
+        Boolean ativo,
         @NotNull @Valid DadosEndereco endereco) {
 }

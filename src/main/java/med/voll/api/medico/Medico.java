@@ -1,6 +1,8 @@
 package med.voll.api.medico;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.AssertTrue;
+import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
@@ -30,6 +32,7 @@ public class Medico {
     @Embedded
     private Endereco endereco;
 
+    @AssertTrue
     private Boolean ativo;
 
     public Medico(DadosCadastroMedico dados) {

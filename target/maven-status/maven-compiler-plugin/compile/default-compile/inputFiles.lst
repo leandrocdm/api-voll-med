@@ -5,6 +5,7 @@
 /Users/leandrocdm/Desenvolvimento/workspace-java/api-voll-med/src/main/java/med/voll/api/endereco/DadosEndereco.java
 /Users/leandrocdm/Desenvolvimento/workspace-java/api-voll-med/src/main/java/med/voll/api/controller/MedicoController.java
 /Users/leandrocdm/Desenvolvimento/workspace-java/api-voll-med/src/main/java/med/voll/api/endereco/Endereco.java
+/Users/leandrocdm/Desenvolvimento/workspace-java/api-voll-med/src/main/java/med/voll/api/medico/DadosAtualizarMedico.java
 /Users/leandrocdm/Desenvolvimento/workspace-java/api-voll-med/src/main/java/med/voll/api/medico/Medico.java
 /Users/leandrocdm/Desenvolvimento/workspace-java/api-voll-med/src/main/java/med/voll/api/ApiApplication.java
 /Users/leandrocdm/Desenvolvimento/workspace-java/api-voll-med/src/main/java/med/voll/api/medico/Especialidade.java
